@@ -1,3 +1,9 @@
+Edanur Dogan
+2020717044
+
+
+
+
 class Otobus:
     """Otobus bilet satis takip sinifi"""
     plaka:str=""
